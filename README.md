@@ -48,3 +48,8 @@ The main goal was to understand:
 Customer-level analysis was performed only for transactions with a known CustomerID.
 
 Customers with known CustomerID represent 84.96% of total NetRevenue. The remaining 15.04% cannot be reliably attributed to individual customers.
+
+
+### Analysis Summary
+
+![Analysis Summary](screenshots/analysis_summary.png)
