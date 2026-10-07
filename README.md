@@ -53,3 +53,5 @@ Customers with known CustomerID represent 84.96% of total NetRevenue. The remain
 ### Analysis Summary
 
 ![Analysis Summary](screenshots/analysis_summary.png)
+
+![Analysis Summary](screenshots/segment_analysis.png)
