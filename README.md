@@ -3,6 +3,10 @@
 Customer analysis of the Online Retail dataset using Excel and Power Query.
 
 
+# Online Retail Customer Analysis
+
+Excel-based customer analysis focused on revenue concentration, repeat customer behavior, and the impact of missing CustomerID values.
+
 ## Goal
 
 The main goal was to understand:
