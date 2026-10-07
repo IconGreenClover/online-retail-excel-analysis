@@ -38,7 +38,7 @@ The main goal was to understand:
 - 15.04% of total NetRevenue cannot be linked to a CustomerID.
 
 
-## Data Limitation
+## Data Limitations
 
 Customer-level analysis was performed only for transactions with a known CustomerID.
 
